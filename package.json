@@ -1,0 +1,17 @@
+{
+  "name": "analiz-plugin-css-validator",
+  "version": "0.0.1",
+  "description": "CSS validator module for Analiz",
+  "main": "lib/index.js",
+  "keywords": [
+    "analiz",
+    "template",
+    "css",
+    "validator"
+  ],
+  "author": "Quelu <quelumatagne@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "css-validator": "^0.5.1"
+  }
+}
