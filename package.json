@@ -1,6 +1,6 @@
 {
   "name": "analiz-plugin-css-validator",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "CSS validator module for Analiz",
   "main": "lib/index.js",
   "keywords": [
